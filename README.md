@@ -1,7 +1,7 @@
 [![MasterHead](https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif)]
 <h1 align="center">Hi 👋, I'm Dilan Weerasinghe</h1>
 <h3 align="center">Passionate Developer Committed to Creating Clean, Efficient, and Scalable Code</h3>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilandds&label=Profile%20views&color=0e75b6&style=flat" alt="dilandds" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dilandds" alt="dilandds" /></a> </p>
