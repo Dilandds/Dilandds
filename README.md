@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
 <h1 align="center">Hi 👋, I'm Dilan Weerasinghe</h1>
 <h3 align="center">Passionate Developer Committed to Creating Clean, Efficient, and Scalable Code</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogramming&psig=AOvVaw3NoEJktecn8_1fFO5L1YCD&ust=1680808005260000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCLjG7fK3k_4CFQAAAAAdAAAAABAE">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogramming&psig=AOvVaw3NoEJktecn8_1fFO5L1YCD&ust=1680808005260000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCLjG7fK3k_4CFQAAAAAdAAAAABAE](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilandds&label=Profile%20views&color=0e75b6&style=flat" alt="dilandds" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dilandds" alt="dilandds" /></a> </p>
