@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
+[![MasterHead](https://gfycat.com/kinddistortedirrawaddydolphin)]
 <h1 align="center">Hi 👋, I'm Dilan Weerasinghe</h1>
 <h3 align="center">Passionate Developer Committed to Creating Clean, Efficient, and Scalable Code</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
