@@ -1,4 +1,4 @@
-[![MasterHead](https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif)]
+![MasterHead](https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif)
 <h1 align="center">Hi 👋, I'm Dilan Weerasinghe</h1>
 <h3 align="center">Passionate Developer Committed to Creating Clean, Efficient, and Scalable Code</h3>
 
