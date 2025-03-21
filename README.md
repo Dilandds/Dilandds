@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dilandds" alt="dilandds" /></a> </p>
 
-- 🔭 I’m currently working on [React_food_ordering_app](https://github.com/Dilandds/Food_App)
+- 🔭 I’m currently working at SyscoLABS Sri Lanka
 
 - 🌱 I’m currently learning **JAVA spring boot**
 
